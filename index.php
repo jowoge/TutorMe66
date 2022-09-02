@@ -36,18 +36,6 @@ if(isset($_SESSION['email'])){
 </div>
 <!-- Links/navbar (sit on top) -->
 
-<!-- Header with image -->
-<header class="bgimg w3-display-container w3-grayscale-min" id="home">
-<div class="w3-display-bottomleft w3-center w3-padding-large w3-hide-small">
-<span class="w3-tag">Monday to Saturday, 9am to 6pm</span>
-</div>
-<div class="w3-display-middle w3-center">
-<span class="w3-text-white" style="font-size:90px">Tutor<br>Me</span>
-</div>
-<div class="w3-display-bottomright w3-center w3-padding-large">
-<span class="w3-text-white">Clementi</span>
-</div>
-</header>
 
 <!-- Add a background color and large text to the whole page -->
 <div class="w3-sand w3-grayscale w3-large">
@@ -60,7 +48,6 @@ if(isset($_SESSION['email'])){
 <p><i>"Knowledge is of no value unless you put it into practice"</i></p>
 <p>-Anton Chekhov</p>
 </div>
-<img src="/w3images/coffeeshop.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
 <p><strong>Opening hours:</strong> Monday to Saturday, 9am to 6pm</p>
 <p><strong>Address:</strong> SIM, Clementi</p>
 </div>
@@ -80,9 +67,6 @@ right tutor for that is extremely important.
 to their learning paces and abilities</i>
 </p>
 </div>
-<img src="/w3images/coffeeshop.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
-<p><strong>Opening hours:</strong>Monday to Saturday, 9am to 6pm</p>
-<p><strong>Address:</strong> SIM, Clementi</p>
 </div>
 </div>
 
@@ -90,7 +74,6 @@ to their learning paces and abilities</i>
 <div class="row">
 <div class="column">
 <div class="card">
-<img src="/w3images/team1.jpg" alt="sam" style="width:100%">
 <div class="container">
 <h2>Sam Lah</h2>
 <p class="title">CEO & Founder</p>
@@ -103,7 +86,6 @@ to their learning paces and abilities</i>
 
 <div class="column">
 <div class="card">
-<img src="/w3images/team2.jpg" alt="amelie" style="width:100%">
 <div class="container">
 <h2>Amelie</h2>
 <p class="title">Director</p>
@@ -116,7 +98,6 @@ to their learning paces and abilities</i>
 
 <div class="column">
 <div class="card">
-<img src="/w3images/team3.jpg" alt="john" style="width:100%">
 <div class="container">
 <h2>John</h2>
 <p class="title">Designer</p>
@@ -128,7 +109,6 @@ to their learning paces and abilities</i>
 
 <div class="column">
 <div class="card">
-<img src="/w3images/team3.jpg" alt="isa" style="width:100%">
 <div class="container">
 <h2>Isabelle</h2>
 <p class="title">Assistant Designer</p>
@@ -140,7 +120,6 @@ to their learning paces and abilities</i>
 
 <div class="column">
 <div class="card">
-<img src="/w3images/team3.jpg" alt="wenhao" style="width:100%">
 <div class="container">
 <h2>Wen Hao</h2>
 <p class="title">Assistant Director</p>
